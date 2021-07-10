@@ -19,6 +19,3 @@ def gen_pass(length):
 			x = str(x)
 		p += x
 	return p
-my_pass = gen_pass(20)
-print(my_pass)
-print(type(my_pass))
